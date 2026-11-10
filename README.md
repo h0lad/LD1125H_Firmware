@@ -2,7 +2,7 @@
 
 This is a attempt of writing an alternative firmware for the LD1125H FMCW radar to extract raw ADC values from the Echo/Bang signal via high-speed UART. 
 
-The hardware reverse engineering part was done in [this article](https://www.dm5tt.de/2024/12/14/ld1125H-reverse-engineering/).
+The hardware reverse engineering part was done in [this article](https://www.holad.de/2024/12/14/ld1125H-reverse-engineering/).
 
 # How to compile
 
